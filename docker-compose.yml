@@ -1,0 +1,5 @@
+services:
+  demo:
+    # networks:
+      # - dokploy-network
+    build: .
